@@ -30,4 +30,5 @@ OR, directly install and execute with:
 ```sh
 go install https://github.com/dagger021/syswatch/cmd/syswatch@latest
 
+syswatch
 ```
